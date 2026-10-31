@@ -8,7 +8,7 @@ Windows 桌面 SSH 隧道工具，让本机浏览器、ComfyUI Desktop 或 API �
 
 ## 快速开始
 
-目前可按下方步骤从源码构建，运行生成的 `dist/win-x64/ComfyTunnel.exe`。
+从 [Releases 下载 ComfyTunnel.exe](https://github.com/AKeyR4y/ComfyTunnel/releases/latest)，直接运行即可，无需安装。也可按下方步骤从源码构建。
 
 1. 点击「添加你的第一台服务器」，填写 SSH 地址、端口、用户名和认证信息，也可从 SSH 命令导入。
 2. 保存配置，按需开启首页的 ComfyUI 开关，然后点击「连接」。首次连接需核对并确认服务器指纹。
