@@ -74,4 +74,8 @@ Pop-Location
 
 ## 许可证
 
-ComfyTunnel 采用 [MIT 许可证](LICENSE)，允许使用、修改、分发和商业使用，需保留版权与许可声明。第三方组件遵循各自的许可证，详见 [第三方声明](THIRD-PARTY-NOTICES.md)。
+Copyright (c) 2026 AKeyR4y。
+
+ComfyTunnel 采用 [GNU GPL 第 3 版](LICENSE)（`GPL-3.0-only`，仅第 3 版），允许使用、修改、分发和商业使用。分发受该许可覆盖的程序或修改版时，需按 GPL-3.0 提供对应源码并保留版权与许可声明；软件不提供担保。第三方组件遵循各自的许可证，详见 [第三方声明](THIRD-PARTY-NOTICES.md)。
+
+此前已按 MIT 许可发布的副本，其既有授权不受本次许可变更影响。
