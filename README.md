@@ -69,8 +69,3 @@ Pop-Location
 - [更新记录](CHANGELOG.md)
 - [验证报告](docs/verification.md)
 - [第三方声明](THIRD-PARTY-NOTICES.md)
-
-## 贡献者
-
-- [AKeyR4y](https://github.com/AKeyR4y)：项目发起与维护。
-- OpenAI Codex：AI 开发助手，协助代码实现、测试、界面迭代与文档维护。
