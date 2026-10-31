@@ -4,6 +4,8 @@ Windows 桌面 SSH 隧道工具，让本机浏览器、ComfyUI Desktop 或 API �
 
 支持多台服务器配置、密码或私钥认证、托盘运行和断线自动重连。自包含单 EXE，无需另外安装 .NET、SSH 客户端或 WSL。
 
+![ComfyTunnel 首页与连接设置界面](docs/images/comfytunnel-preview.png)
+
 ## 快速开始
 
 目前可按下方步骤从源码构建，运行生成的 `dist/win-x64/ComfyTunnel.exe`。
