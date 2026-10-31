@@ -71,3 +71,7 @@ Pop-Location
 - [更新记录](CHANGELOG.md)
 - [验证报告](docs/verification.md)
 - [第三方声明](THIRD-PARTY-NOTICES.md)
+
+## 许可证
+
+ComfyTunnel 采用 [MIT 许可证](LICENSE)，允许使用、修改、分发和商业使用，需保留版权与许可声明。第三方组件遵循各自的许可证，详见 [第三方声明](THIRD-PARTY-NOTICES.md)。
